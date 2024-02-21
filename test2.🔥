@@ -1,0 +1,6 @@
+fn main():
+    print("Hello world")
+
+    var list = [7,6,3,2]
+
+    print(len(list))
